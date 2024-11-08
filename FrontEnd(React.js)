@@ -1,0 +1,10 @@
+src/
+  ├── components/
+  │   ├── Navbar.js
+  │   ├── CourseCard.js
+  │   └── UserProfile.js
+  ├── pages/
+  │   ├── HomePage.js
+  │   ├── Dashboard.js
+  │   └── Login.js
+  └── App.js
